@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Web Design](http://www.malleeblue.com/web-design-service-and-pricing/) and ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
