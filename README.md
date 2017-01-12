@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/SportyDave/wordpress-web-d
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Web Design](http://www.malleeblue.com/web-design-service-and-pricing/) and ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,8 +24,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Web Design](http://www.malleeblue.com/web-design-service-and-pricing/) and ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
