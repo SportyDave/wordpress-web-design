@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/SportyDave/wordpress-web-d
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Web Design for Small Business](http://www.malleeblue.com/web-design-service-and-pricing/) [Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
+[Web Design for Small Business](http://www.malleeblue.com/web-design-service-and-pricing/) ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
 
 ### Markdown
 
