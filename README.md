@@ -28,10 +28,8 @@ Sites that show you how to do stuff, usually with demos.
 
 * [codrops](http://tympanus.net/codrops/)
 * [codecademy](http://www.codecademy.com/)
-* [codeschool](https://www.codeschool.com/)
 * [tutorialzine](http://tutorialzine.com/)
 * [tuts+](http://webdesign.tutsplus.com/)
-* [team treehouse](https://teamtreehouse.com/)
 * [w3schools](http://www.w3schools.com/)
 * [mozilla developer](https://developer.mozilla.org/en-US/docs/Web)
 
@@ -42,15 +40,6 @@ websites that showcase other websites.
 * [awwwards](http://www.awwwards.com/)
 * [css design awards](http://cssdesignawards.com/)
 * [the best designs](https://www.thebestdesigns.com/)
-* [web design inspiration](http://www.webdesign-inspiration.com/)
-* [one page love](https://onepagelove.com/)
-* [siteInspire](http://www.siteinspire.com/)
-* [unmatchedstyle](http://unmatchedstyle.com/gallery)
-* [web inspiration gallery](http://webinspiration.gallery/design/)
-* [html inspiration](http://htmlinspiration.com/)
-* [web creme](http://www.webcreme.com/)
-* [css winner](http://www.csswinner.com/)
-* [web designer wall](http://webdesignerwall.com/)
 
 ##### Webzines
 
@@ -63,10 +52,3 @@ Articles and Resources (or links to resources), some graphic design stuff, News 
 * [creativebloq](http://www.creativebloq.com/tag/Web-design)
 * [designmodo](http://designmodo.com/)
 * [hongkiat](http://www.hongkiat.com/blog/design-dev/)
-* [line25](http://line25.com/)
-* [six revisions](http://sixrevisions.com/)
-* [design instruct](http://designinstruct.com/)
-* [web designer depot](http://www.webdesignerdepot.com/)
-* [1st web designer](http://www.1stwebdesigner.com/blog/)
-* [web design ledger](http://webdesignledger.com/)
-* [queness](http://www.queness.com/)
