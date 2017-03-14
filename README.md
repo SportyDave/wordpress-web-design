@@ -1,8 +1,8 @@
 ## WordPress Web Design for Small Business
 
-You can use the [editor on GitHub](https://github.com/SportyDave/wordpress-web-design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
 [Web Design for Small Business](http://www.malleeblue.com/web-design-service-and-pricing/) ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
 
@@ -33,14 +33,6 @@ Sites that show you how to do stuff, usually with demos.
 * [w3schools](http://www.w3schools.com/)
 * [mozilla developer](https://developer.mozilla.org/en-US/docs/Web)
 
-##### Inspiration
-
-websites that showcase other websites.
-
-* [awwwards](http://www.awwwards.com/)
-* [css design awards](http://cssdesignawards.com/)
-* [the best designs](https://www.thebestdesigns.com/)
-
 ##### Webzines
 
 Articles and Resources (or links to resources), some graphic design stuff, News and the occasional tutorial.
@@ -51,4 +43,3 @@ Articles and Resources (or links to resources), some graphic design stuff, News 
 * [smashing magazine](http://www.smashingmagazine.com/)
 * [creativebloq](http://www.creativebloq.com/tag/Web-design)
 * [designmodo](http://designmodo.com/)
-* [hongkiat](http://www.hongkiat.com/blog/design-dev/)
