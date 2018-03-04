@@ -4,7 +4,7 @@ You can use the editor on GitHub to maintain and preview the content for your we
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
 
-[Web Design for Small Business](http://www.malleeblue.com/web-design-service-and-pricing/) ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
+[Web Design for Small Business](https://malleeblue.wixsite.com/tenterfieldwebdesign) ![Web Design Ideas](https://i0.wp.com/www.malleeblue.com/wp-content/uploads/2015/04/Web-Design-The-Mermaid-Company.jpg)
 
 ##### Rationale for using WordPress as a small business web design platform.
 
@@ -38,7 +38,7 @@ Sites that show you how to do stuff, usually with demos.
 Articles and Resources (or links to resources), some graphic design stuff, News and the occasional tutorial.
 
 * [css-tricks](https://css-tricks.com/)
-* [speckyboy](http://speckyboy.com/)
+* [Tenterfield Design Portfolio](https://malleeblue.wixsite.com/tenterfieldwebdesign/web-design-portfolio)
 * [A list apart](http://alistapart.com/)
 * [smashing magazine](http://www.smashingmagazine.com/)
 * [creativebloq](http://www.creativebloq.com/tag/Web-design)
